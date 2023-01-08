@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi! This is Fldicoahkiin.
+
+### Self-introduction
+- A student from China. 
+
+[![Fldicoahkiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fldicoahkiin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fldicoahkiin/Fldicoahkiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
