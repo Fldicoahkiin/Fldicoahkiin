@@ -1,7 +1,7 @@
 ## Hi! This is Flacier.😋
 
 ### Self-introduction
-- A student from China. 
+- A School-Prisoner from China. 
 
 [![Fldicoahkiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fldicoahkiin)](https://github.com/anuraghazra/github-readme-stats)
 
