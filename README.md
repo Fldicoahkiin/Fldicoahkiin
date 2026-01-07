@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fldicoahkiin&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=&exclude_repo=MnBWarband-Editor_bak" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fldicoahkiin&theme=github_dark_dimmed" />
+    <img height="180em" src="https://github-readme-stats-phi-rosy-26.vercel.app/api/top-langs/?username=Fldicoahkiin&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=&exclude_repo=MnBWarband-Editor_bak" /><img height="180em" src="https://github-readme-stats-phi-rosy-26.vercel.app/api?username=Fldicoahkiin&theme=github_dark_dimmed" />
   </a>
 </p>
 
