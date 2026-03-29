@@ -16,7 +16,7 @@
 
 ## Langs
 
-![Langs](https://skillicons.dev/icons?i=rust,go,typescript,vue,react,,html,css,js,,dart,flutter,python)
+![Langs](https://skillicons.dev/icons?i=rust,go,typescript,vue,react,html,css,js,dart,flutter,python)
 
 ## Tools
 
