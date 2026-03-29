@@ -16,11 +16,11 @@
 
 ## Langs
 
-![Langs](https://skillicons.dev/icons?i=rust,go,python,pytorch,fastapi,django,dart,flutter,php,cpp,c,java,gradle,html,css,js,typescript,vue,react)
+![Langs](https://skillicons.dev/icons?i=rust,go,typescript,vue,react,,html,css,js,,dart,flutter,python)
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,md,notion,docker,cloudflare,workers,vercel,nginx,nodejs,npm,yarn,mysql)
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,md,notion,docker,cloudflare,workers,vercel,nginx,nodejs,npm,yarn,pnpm,mysql)
 
 ## Hardware
 
