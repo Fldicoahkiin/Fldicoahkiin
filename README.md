@@ -20,7 +20,7 @@
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,md,notion,docker,cloudflare,workers,vercel,nginx,nodejs,npm,yarn,pnpm,mysql)
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,md,notion,docker,cloudflare,workers,vercel,nginx,nodejs,npm,yarn,pnpm)
 
 ## Hardware
 
