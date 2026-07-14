@@ -25,3 +25,10 @@
 ## Hardware
 
 ![Hardware](https://skillicons.dev/icons?i=apple,windows,arch)
+
+## Skills
+
+<p align="center">
+<a href="https://agent-skills-card.flacier.com/?skills=AkaraChen/eric-way,yetone/native-feel-skill,yetone/kill-ai-slop,MrGeDiao/shuorenhua,Fldicoahkiin/demo-video-skill&amp;title=%E6%88%91%E6%AD%A3%E5%9C%A8%E7%94%A8&amp;style=brutalist&amp;variant=list"><img align="top" alt="我正在用" width="440" src="https://agent-skills-card.flacier.com/api/svg?skills=AkaraChen/eric-way,yetone/native-feel-skill,yetone/kill-ai-slop,MrGeDiao/shuorenhua,Fldicoahkiin/demo-video-skill&amp;title=%E6%88%91%E6%AD%A3%E5%9C%A8%E7%94%A8&amp;style=brutalist&amp;variant=list"></a>
+<a href="https://agent-skills-card.flacier.com/?skills=Fldicoahkiin/code-alchemist,Fldicoahkiin/demo-video-skill,Fldicoahkiin/rust-rewrite,Fldicoahkiin/apple-l10n-zh&amp;title=%E6%88%91%E7%9A%84Skills%28slop&amp;style=brutalist&amp;variant=list"><img align="top" alt="我的Skills(slop" width="440" src="https://agent-skills-card.flacier.com/api/svg?skills=Fldicoahkiin/code-alchemist,Fldicoahkiin/demo-video-skill,Fldicoahkiin/rust-rewrite,Fldicoahkiin/apple-l10n-zh&amp;title=%E6%88%91%E7%9A%84Skills%28slop&amp;style=brutalist&amp;variant=list"></a>
+</p>
